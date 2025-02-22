@@ -42,9 +42,7 @@ const artworks = [
 
 const backgroundImages = [
   'https://images.unsplash.com/photo-1579547945413-497e1b99dac0?auto=format&fit=crop&q=80&w=2000',
-  'https://images.unsplash.com/photo-1579547621113-e4bb2a19bdd6?auto=format&fit=crop&q=80&w=2000',
-  'https://images.unsplash.com/photo-1579547621234-78e6be5a4c0f?auto=format&fit=crop&q=80&w=2000',
-  'https://images.unsplash.com/photo-1579547621869-0b5d0b0f676e?auto=format&fit=crop&q=80&w=2000'
+  'https://images.unsplash.com/photo-1579547621113-e4bb2a19bdd6?auto=format&fit=crop&q=80&w=2000'
 ];
 
 function App() {
@@ -74,7 +72,7 @@ function App() {
           <div className="w-full max-w-3xl flex flex-col md:flex-row md:items-center gap-8 items-center">
             <div className="w-36 h-36 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-white/80 shadow-2xl backdrop-blur-sm">
               <img
-                src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=400"
+                src="https://i.ibb.co/LdH1JrbB/Whats-App-Image-2025-02-22-at-16-17-08-1831e6a2.jpg"
                 alt="Artist profile"
                 className="w-full h-full object-cover"
               />
