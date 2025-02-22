@@ -72,7 +72,7 @@ function App() {
           <div className="w-full max-w-3xl flex flex-col md:flex-row md:items-center gap-8 items-center">
             <div className="w-36 h-36 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-white/80 shadow-2xl backdrop-blur-sm">
               <img
-                src="https://i.ibb.co/LdH1JrbB/Whats-App-Image-2025-02-22-at-16-17-08-1831e6a2.jpg"
+                src="https://i.ibb.co/hRTPcSL7/Whats-App-Image-2025-02-22-at-16-17-08-dfd55ccc.jpg"
                 alt="Artist profile"
                 className="w-full h-full object-cover"
               />
