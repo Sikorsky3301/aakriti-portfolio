@@ -80,16 +80,16 @@ function App() {
               />
             </div>
             <div className="text-white text-center md:text-left">
-              <h1 className="text-4xl md:text-6xl font-bold mb-3 md:mb-4 tracking-tight">Sarah Anderson</h1>
-              <p className="text-xl md:text-2xl opacity-90 mb-4 md:mb-6 font-light">Visual Artist & Photographer</p>
+              <h1 className="text-4xl md:text-6xl font-bold mb-3 md:mb-4 tracking-tight">Aakriti Kumari</h1>
+              <p className="text-xl md:text-2xl opacity-90 mb-4 md:mb-6 font-light">Creative Artist and Designer</p>
               <div className="flex flex-col sm:flex-row gap-4 items-center sm:items-start justify-center md:justify-start">
                 <div className="flex items-center gap-2 backdrop-blur-sm bg-white/10 px-4 py-2 rounded-full w-full sm:w-auto justify-center">
                   <Camera size={20} />
-                  <span>Digital Artist</span>
+                  <span>Artist</span>
                 </div>
                 <div className="flex items-center gap-2 backdrop-blur-sm bg-white/10 px-4 py-2 rounded-full w-full sm:w-auto justify-center">
                   <MapPin size={20} />
-                  <span>New York, USA</span>
+                  <span>Greater Noida, India</span>
                 </div>
               </div>
             </div>
