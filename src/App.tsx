@@ -4,33 +4,33 @@ import { Camera, Mail, MapPin, Instagram, Twitter } from 'lucide-react';
 const artworks = [
   {
     id: 1,
-    title: "Urban Dreams",
-    image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&q=80&w=800",
-    category: "Digital Art"
+    title: "Koi Fish Art",
+    image: "https://i.ibb.co/nNkRhrJn/Whats-App-Image-2025-02-22-at-16-17-05-05f76eab.jpg",
+    category: "Nature"
   },
   {
     id: 2,
-    title: "Nature's Embrace",
-    image: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?auto=format&fit=crop&q=80&w=800",
-    category: "Photography"
+    title: "Van Gogh Painting",
+    image: "https://i.ibb.co/JRy5Grv6/Whats-App-Image-2025-02-22-at-16-17-05-fa219411.jpg",
+    category: "Nature"
   },
   {
     id: 3,
     title: "Abstract Thoughts",
-    image: "https://images.unsplash.com/photo-1578301978018-3199d0d8c13c?auto=format&fit=crop&q=80&w=800",
-    category: "Painting"
+    image: "https://i.ibb.co/849DvnPm/Whats-App-Image-2025-02-22-at-16-17-04-2e9d7f45.jpg",
+    category: "Life"
   },
   {
     id: 4,
-    title: "City Lights",
-    image: "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?auto=format&fit=crop&q=80&w=800",
-    category: "Photography"
+    title: "God",
+    image: "https://i.ibb.co/N2sTsLRF/Whats-App-Image-2025-02-22-at-16-19-20-12a419e3.jpg",
+    category: "Nature"
   },
   {
     id: 5,
-    title: "Ethereal Dreams",
-    image: "https://images.unsplash.com/photo-1579783902850-c21262cb4573?auto=format&fit=crop&q=80&w=800",
-    category: "Digital Art"
+    title: "Van Gogh T-Shirt",
+    image: "https://i.ibb.co/spsGyCJj/Whats-App-Image-2025-02-22-at-16-17-04-0d536b2f.jpg",
+    category: "Nature"
   },
   {
     id: 6,
@@ -79,7 +79,7 @@ function App() {
               />
             </div>
             <div className="text-white text-center md:text-left">
-              <h1 className="text-4xl md:text-6xl font-bold mb-3 md:mb-4 tracking-tight">Aakriti Kumari</h1>
+              <h1 className="text-4xl md:text-6xl font-bold mb-3 md:mb-4 tracking-tight"><a href="https://www.instagram.com/aak_ima?igsh=MWlsdDgycmNicHV1cA==">Aakriti Kumari</a></h1>
               <p className="text-xl md:text-2xl opacity-90 mb-4 md:mb-6 font-light">Creative Artist and Designer</p>
               <div className="flex flex-col sm:flex-row gap-4 items-center sm:items-start justify-center md:justify-start">
                 <div className="flex items-center gap-2 backdrop-blur-sm bg-white/10 px-4 py-2 rounded-full w-full sm:w-auto justify-center">
@@ -104,7 +104,7 @@ function App() {
               <Mail size={20} />
               <span className="hidden sm:inline">Contact</span>
             </a>
-            <a href="#" className="flex items-center gap-2 text-gray-600 hover:text-purple-500 transition-colors">
+            <a href="https://www.instagram.com/aak_ima?igsh=MWlsdDgycmNicHV1cA==" className="flex items-center gap-2 text-gray-600 hover:text-purple-500 transition-colors">
               <Instagram size={20} />
               <span className="hidden sm:inline">Instagram</span>
             </a>
@@ -146,7 +146,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-6 md:py-8">
         <div className="container mx-auto px-4 text-center">
-          <p className="text-sm md:text-base font-light tracking-wider">© 2024 Sarah Anderson. All rights reserved.</p>
+          <p className="text-sm md:text-base font-light tracking-wider">© 2025 Aakriti Kumari. All rights reserved.</p>
         </div>
       </footer>
     </div>
